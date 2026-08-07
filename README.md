@@ -20,4 +20,4 @@ Mobile animal-powered mechanical generator hub for humanitarian aid, WASH, and c
 
 markdown
 
-# <img src="avatar.png" width="32" height="32"> The Botan-2 Car (Resilience-EV) 
+
